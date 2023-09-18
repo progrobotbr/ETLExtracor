@@ -1,0 +1,2257 @@
+
+**** ERROR file opened at 20140915 153427 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:38652 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Mon Sep 15 15:34:27 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:38652 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140916 112919 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:13644 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 16 11:29:19 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:13644 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140916 163458 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:48508 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 16 16:34:58 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+T:48508 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140916 170236 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:48620 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 16 17:02:36 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:48620 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140916 170321 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:51924 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 16 17:03:21 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+T:51924 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140917 215053 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6800 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 17 21:50:53 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6800 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140917 215511 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:10748 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 17 21:55:11 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:10748 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 084955 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:2984 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 08:49:55 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:2984 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 091106 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6548 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/W/sapprracc/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied (191.173.60.160 to
+            172.28.182.5, 3310)
+TIME        Thu Sep 18 09:11:00 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4439
+
+T:6548 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/W/sapprracc/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 091125 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:7448 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/W/sapprracc/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied (191.173.60.160 to
+            172.28.182.5, 3310)
+TIME        Thu Sep 18 09:11:19 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4441
+
+T:7448 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/W/sapprracc/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 091223 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6116 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied (191.173.60.160 to
+            172.28.182.5, 3310)
+TIME        Thu Sep 18 09:12:18 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4443
+
+T:6116 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 092626 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:9652 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5/H/, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3299)
+TIME        Thu Sep 18 09:26:20 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4487
+
+T:9652 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5/H/ TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100306 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12084 Error in program 'javaw': ======> Connect to message server failed
+Connect_PM  MSHOST=172.28.182.5, R3NAME=10, GROUP=/H/200.184.174.249/H
+
+LOCATION    CPIC (TCP/IP) on local host Renato-note
+ERROR       service '?' unknown
+TIME        Thu Sep 18 10:03:06 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -3
+DETAIL      NiErrSet
+COUNTER     2
+
+T:12084 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT MSHOST=172.28.182.5 R3NAME=10 GROUP=/H/200.184.174.249/H TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100402 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12368 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '200.184.174.249/H' unknown
+TIME        Thu Sep 18 10:04:02 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        895
+DETAIL      NiPGetHostByName: '200.184.174.249/H' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+T:12368 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=/H/200.184.174.249/H GWSERV=sapgw10 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100413 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12564 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '200.184.174.249/H' unknown
+TIME        Thu Sep 18 10:04:13 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        895
+DETAIL      NiPGetHostByName: '200.184.174.249/H' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+T:12564 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=/H/200.184.174.249/H GWSERV=sapgw10 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100446 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12768 Error in program 'javaw': ======> Connect to message server failed
+Connect_PM  MSHOST=172.28.182.5, R3NAME=10, GROUP=/H/200.184.174.249/H
+
+LOCATION    CPIC (TCP/IP) on local host Renato-note
+ERROR       service '?' unknown
+TIME        Thu Sep 18 10:04:46 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -3
+DETAIL      NiErrSet
+COUNTER     2
+
+T:12768 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT MSHOST=172.28.182.5 R3NAME=10 GROUP=/H/200.184.174.249/H TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100506 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12928 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       hostname '200.184.174.249/H' unknown
+TIME        Thu Sep 18 10:05:06 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -2
+MODULE      ninti.c
+LINE        895
+DETAIL      NiPGetHostByName: '200.184.174.249/H' not found
+SYSTEM CALL getaddrinfo
+COUNTER     2
+
+T:12928 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=/H/200.184.174.249/H GWSERV=sapgw10 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100730 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:13776 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5/H, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       hostname '172.28.182.5/H' unknown
+TIME        Thu Sep 18 10:07:20 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -90
+MODULE      ninti.c
+LINE        897
+DETAIL      NiPGetHostByName: '172.28.182.5/H' not found
+SYSTEM CALL getaddrinfo
+COUNTER     4515
+
+T:13776 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5/H TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 100930 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6792 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.184.174.249, GWSERV=sapdp99, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       internal error
+TIME        Thu Sep 18 10:09:24 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -93
+MODULE      gwxx.c
+LINE        646
+DETAIL      NiRClientHandle: route expected
+SYSTEM CALL GwRead
+COUNTER     4516
+
+T:6792 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=200.184.174.249 GWSERV=sapdp99 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101016 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:964 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.184.174.249, GWSERV=sapdp10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.184.174.249:sapdp10' not reached
+TIME        Thu Sep 18 10:10:16 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 200.184.174.249:3210
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:964 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=200.184.174.249 GWSERV=sapdp10 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101058 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6436 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.184.174.249, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.184.174.249:3310' not reached
+TIME        Thu Sep 18 10:10:58 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 200.184.174.249:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6436 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=200.184.174.249 GWSERV=sapgw10 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101135 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6516 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=200.184.174.249, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '200.184.174.249:3310' not reached
+TIME        Thu Sep 18 10:11:35 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 200.184.174.249:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6516 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 GWHOST=200.184.174.249 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101334 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12724 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3310)
+TIME        Thu Sep 18 10:13:29 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4518
+
+T:12724 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101425 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:12476 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3310)
+TIME        Thu Sep 18 10:14:20 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4520
+
+T:12476 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101755 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:13552 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3310)
+TIME        Thu Sep 18 10:17:50 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4522
+
+T:13552 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 101942 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:964 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/216.155.132.235/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '216.155.132.235:3299' not reached
+TIME        Thu Sep 18 10:19:42 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 216.155.132.235:3299
+SYSTEM CALL connect
+ERRNO       10061
+ERRNO TEXT  WSAECONNREFUSED: Connection refused
+COUNTER     1
+
+T:964 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/216.155.132.235/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 102053 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:11716 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3310)
+TIME        Thu Sep 18 10:20:47 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4524
+
+T:11716 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 102422 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:14296 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/200.184.174.249/H/172.28.182.5/H/, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    SAProuter 40.4 on 'SAPGOLRT01'
+ERROR       SAPGOLRT01: route permission denied
+            (218.242.82.187.isp.timbrasil.com.br to 172.28.182.5, 3299)
+TIME        Thu Sep 18 10:24:17 2014
+RELEASE     720
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -94
+COUNTER     4529
+
+T:14296 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=/H/200.184.174.249/H/172.28.182.5/H/ TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 141027 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:36160 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 14:10:27 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:36160 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 171836 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:54696 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 17:18:36 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:54696 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 193622 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:8028 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 19:36:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:8028 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 193622 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:8012 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 19:36:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:8012 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 221555 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:580 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 22:15:55 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:580 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 222030 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:7948 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 22:20:30 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:7948 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 222322 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:7164 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 22:23:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:7164 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 224102 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:8688 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 22:41:02 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:8688 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 230823 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:10692 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 23:08:23 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:10692 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140918 235622 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:13796 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 18 23:56:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:13796 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 001522 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:18184 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 00:15:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:18184 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 111222 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:15932 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 11:12:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:15932 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 111922 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:16608 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 11:19:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:16608 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 111943 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17368 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 11:19:43 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:17368 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 112207 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:19036 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 11:22:07 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:19036 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 112228 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:19032 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 11:22:28 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:19032 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 140301 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:32848 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 14:03:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:32848 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 140301 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:34608 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 14:03:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:34608 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 140301 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:32860 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 14:03:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:32860 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140919 143131 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:33248 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Fri Sep 19 14:31:31 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:33248 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140921 124522 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6880 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Sun Sep 21 12:45:22 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:6880 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140922 102327 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:15068 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Mon Sep 22 10:23:27 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:15068 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140922 103416 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:15260 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Mon Sep 22 10:34:16 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:15260 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140923 160206 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:42960 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 23 16:02:06 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:42960 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140923 170955 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:53144 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 23 17:09:55 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:53144 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140923 171019 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:53616 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Tue Sep 23 17:10:19 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+T:53616 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 002521 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:16252 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 00:25:21 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:16252 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 103047 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:14380 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:30:47 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:14380 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104012 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:15920 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:40:12 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:15920 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104134 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:15180 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:41:34 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:15180 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104219 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:16228 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:42:19 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:16228 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104325 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:8456 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:43:25 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:8456 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104512 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:16460 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:45:12 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:16460 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104530 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:16684 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:45:30 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:16684 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104641 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17464 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:46:41 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17464 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104710 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17748 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:10 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17748 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104712 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17756 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:12 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17756 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104713 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17796 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:13 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17796 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104713 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17800 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:13 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17800 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104714 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17808 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:14 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17808 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140924 104714 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17804 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Wed Sep 24 10:47:14 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10065
+ERRNO TEXT  WSAEHOSTUNREACH: No route to host
+COUNTER     1
+
+T:17804 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140925 115131 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:18232 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 25 11:51:31 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:18232 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140925 115210 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:20084 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 25 11:52:10 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10053
+ERRNO TEXT  WSAECONNABORTED: Software caused connection abort
+COUNTER     1
+
+T:20084 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140925 120111 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:2740 Error in program 'javaw': ======> CPIC-CALL: 'CMRCV : rc=25
+
+LOCATION    SAP-Gateway on host SAPGOLECD01.golnaweb.com.br / sapgw10
+ERROR       program state check for conversation 58708170
+TIME        Thu Sep 25 12:01:03 2014
+RELEASE     741
+COMPONENT   SAP-Gateway
+VERSION     2
+RC          471
+MODULE      /bas/741_REL/src/krn/si/gw/gwr3cpic.c
+LINE        3718
+DETAIL      program sapgw10 on host SAPGOLECD01.golnaweb.com.br called
+            function DEALLOCATE in state WAIT_FOR_SYNC
+COUNTER     3811
+
+T:2740 Error in program 'javaw': Error RFCIO_ERROR_MESSAGE in abrfcio.c : 1987
+T:2740 Error in program 'javaw': <* RfcReceive [4] : returns 3:RFC_SYS_EXCEPTION
+T:2740 Error in program 'javaw': <* RfcCallReceive [4] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20140925 190912 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:9444 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=172.28.182.5, GWSERV=sapgw10, SYSNR=10
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '172.28.182.5:3310' not reached
+TIME        Thu Sep 25 19:09:12 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 172.28.182.5:3310
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:9444 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=130 USER=RLIMA PASSWD=******* LANG=PT SYSNR=10 ASHOST=172.28.182.5 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140929 212935 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:10300 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=192.168.129.128, GWSERV=sapgw42, SYSNR=42
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '192.168.129.128:3342' not reached
+TIME        Mon Sep 29 21:29:35 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 192.168.129.128:3342
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     1
+
+T:10300 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=001 USER=SAP* PASSWD=******* LANG=EN SYSNR=42 ASHOST=192.168.129.128 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140930 161154 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:31992 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Tue Sep 30 16:11:54 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:31992 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140930 161301 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:29964 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Tue Sep 30 16:13:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:29964 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20140930 161305 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:32352 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Tue Sep 30 16:13:05 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:32352 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141001 111001 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6684 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Wed Oct 01 11:10:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:6684 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141001 111101 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:6972 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Wed Oct 01 11:11:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:6972 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141001 111201 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:8020 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Wed Oct 01 11:12:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:8020 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141001 113701 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:9436 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Wed Oct 01 11:37:01 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:9436 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141001 141633 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:5768 Error in program 'javaw': ======> SAP_CMINIT3 : rc=20 > Connect to SAP gateway failed
+Connect_PM  GWHOST=/H/201.28.216.226/H/192.168.0.226, GWSERV=sapgw00, SYSNR=00
+
+LOCATION    CPIC (TCP/IP) on local host
+ERROR       partner '201.28.216.226:3299' not reached
+TIME        Wed Oct 01 14:16:33 2014
+RELEASE     730
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3286
+DETAIL      NiPConnect2: 201.28.216.226:3299
+SYSTEM CALL connect
+ERRNO       10051
+ERRNO TEXT  WSAENETUNREACH: Network is unreachable
+COUNTER     1
+
+T:5768 Error in program 'javaw': ======> 
+
+>>> RfcOpenEx ...
+ Got following connect_param string: 
+   CLIENT=300 USER=USERMSAF PASSWD=******* LANG=EN SYSNR=00 ASHOST=/H/201.28.216.226/H/192.168.0.226 TYPE=3 TOUPPER=0 
+<<< RfcOpenEx failed
+
+
+
+**** ERROR file opened at 20141002 232713 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:17852 Error in program 'javaw': ======> A condition specified at runtime has an unexpected format.
+T:17852 Error in program 'javaw': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:17852 Error in program 'javaw': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141002 233638 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:19312 Error in program 'javaw': ======> A condition specified dynamically has an unexpected format.
+T:19312 Error in program 'javaw': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:19312 Error in program 'javaw': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141002 233849 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:18972 Error in program 'javaw': ======> A condition specified dynamically has an unexpected format.
+T:18972 Error in program 'javaw': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:18972 Error in program 'javaw': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141002 234358 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:18636 Error in program 'javaw': ======> Error in module RSQL of the database interface
+T:18636 Error in program 'javaw': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:18636 Error in program 'javaw': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION
+>TS> Thu Oct 02 23:44:13 2014
+T:18636 Error in program 'javaw': ======> Error in module RSQL of the database interface
+T:18636 Error in program 'javaw': <* RfcReceive [3] : returns 3:RFC_SYS_EXCEPTION
+T:18636 Error in program 'javaw': <* RfcCallReceive [3] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141002 234639 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:19192 Error in program 'javaw': ======> Error in module RSQL of the database interface
+T:19192 Error in program 'javaw': <* RfcReceive [4] : returns 3:RFC_SYS_EXCEPTION
+T:19192 Error in program 'javaw': <* RfcCallReceive [4] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20141002 234834 Hora oficial do Brasil, SAP-REL 730,0,317 RFC-VER 3 1362881 MT-SL
+T:19052 Error in program 'javaw': ======> Error in module RSQL of the database interface
+T:19052 Error in program 'javaw': <* RfcReceive [2] : returns 3:RFC_SYS_EXCEPTION
+T:19052 Error in program 'javaw': <* RfcCallReceive [2] : returns 3:RFC_SYS_EXCEPTION

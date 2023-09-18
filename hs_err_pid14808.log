@@ -1,0 +1,247 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 239454208 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=14808, tid=12332
+#
+# JRE version: Java(TM) SE Runtime Environment (7.0_67-b01) (build 1.7.0_67-b01)
+# Java VM: Java HotSpot(TM) Client VM (24.65-b04 mixed mode windows-x86 )
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x47ea8c00):  JavaThread "Thread-10" [_thread_in_vm, id=12332, stack(0x497e0000,0x49830000)]
+
+Stack: [0x497e0000,0x49830000],  sp=0x4982ed98,  free space=315k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x190494]
+V  [jvm.dll+0x18a2a5]
+V  [jvm.dll+0xc7cf0]
+C  [sapjcorfc.dll+0x3051]
+C  [sapjcorfc.dll+0x49df]
+C  [sapjcorfc.dll+0xbc9f]
+j  com.sap.mw.jco.rfc.MiddlewareRFC$Client.nativeExecute(Lcom/sap/mw/jco/JCO$Client;Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+0
+j  com.sap.mw.jco.rfc.MiddlewareRFC$Client.execute(Lcom/sap/mw/jco/JCO$Client;Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+16
+j  com.sap.mw.jco.JCO$Client.execute(Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+478
+j  com.sap.mw.jco.JCO$Client.execute(Lcom/sap/mw/jco/JCO$Function;)V+21
+j  adapter.sap.connector.sapCall.call()I+16
+j  adapter.sap.adapterSAP.ftbbase(Lorg/w3c/dom/Node;)I+142
+j  adapter.sap.adapterSAP.ftbbases(Lorg/w3c/dom/Node;)I+37
+j  adapter.sap.adapterSAP.parse(Ljava/lang/String;)I+79
+j  scheduler.taskSet.execute(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)I+127
+j  scheduler.job.run()V+77
+v  ~StubRoutines::call_stub
+V  [jvm.dll+0x1410fa]
+V  [jvm.dll+0x20567e]
+V  [jvm.dll+0x1412c5]
+V  [jvm.dll+0x141327]
+V  [jvm.dll+0xec6ef]
+V  [jvm.dll+0x16252c]
+V  [jvm.dll+0x162f87]
+V  [jvm.dll+0x1a7489]
+C  [msvcr100.dll+0x5c556]
+C  [msvcr100.dll+0x5c600]
+C  [kernel32.dll+0x4ee1c]
+C  [ntdll.dll+0x637eb]
+C  [ntdll.dll+0x637be]
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  com.sap.mw.jco.rfc.MiddlewareRFC$Client.nativeExecute(Lcom/sap/mw/jco/JCO$Client;Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+0
+j  com.sap.mw.jco.rfc.MiddlewareRFC$Client.execute(Lcom/sap/mw/jco/JCO$Client;Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+16
+j  com.sap.mw.jco.JCO$Client.execute(Ljava/lang/String;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Lcom/sap/mw/jco/JCO$ParameterList;Ljava/lang/String;Ljava/lang/String;I)V+478
+j  com.sap.mw.jco.JCO$Client.execute(Lcom/sap/mw/jco/JCO$Function;)V+21
+j  adapter.sap.connector.sapCall.call()I+16
+j  adapter.sap.adapterSAP.ftbbase(Lorg/w3c/dom/Node;)I+142
+j  adapter.sap.adapterSAP.ftbbases(Lorg/w3c/dom/Node;)I+37
+j  adapter.sap.adapterSAP.parse(Ljava/lang/String;)I+79
+j  scheduler.taskSet.execute(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;)I+127
+j  scheduler.job.run()V+77
+v  ~StubRoutines::call_stub
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+=>0x47ea8c00 JavaThread "Thread-10" [_thread_in_vm, id=12332, stack(0x497e0000,0x49830000)]
+  0x47e5ac00 JavaThread "JCO.TimeoutChecker" daemon [_thread_blocked, id=14112, stack(0x012a0000,0x012f0000)]
+  0x47e31000 JavaThread "Thread-1" [_thread_in_native, id=16316, stack(0x487e0000,0x48830000)]
+  0x47e2cc00 JavaThread "Thread-0" [_thread_in_native, id=14376, stack(0x03950000,0x039a0000)]
+  0x47dfbc00 JavaThread "Service Thread" daemon [_thread_blocked, id=12876, stack(0x483b0000,0x48400000)]
+  0x47df9000 JavaThread "C1 CompilerThread0" daemon [_thread_blocked, id=15636, stack(0x48830000,0x48880000)]
+  0x47de9c00 JavaThread "JDWP Command Reader" daemon [_thread_in_native, id=16268, stack(0x48630000,0x48680000)]
+  0x47de8c00 JavaThread "JDWP Event Helper Thread" daemon [_thread_blocked, id=14916, stack(0x48700000,0x48750000)]
+  0x47de2800 JavaThread "JDWP Transport Listener: dt_socket" daemon [_thread_blocked, id=14356, stack(0x486b0000,0x48700000)]
+  0x47dd5c00 JavaThread "Attach Listener" daemon [_thread_blocked, id=10544, stack(0x48030000,0x48080000)]
+  0x47dd2800 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=11536, stack(0x00390000,0x003e0000)]
+  0x47da3800 JavaThread "Finalizer" daemon [_thread_blocked, id=16252, stack(0x47fc0000,0x48010000)]
+  0x47da2400 JavaThread "Reference Handler" daemon [_thread_blocked, id=14464, stack(0x03900000,0x03950000)]
+  0x017dc800 JavaThread "main" [_thread_blocked, id=14484, stack(0x01240000,0x01290000)]
+
+Other Threads:
+  0x47d9fc00 VMThread [stack: 0x01700000,0x01750000] [id=15984]
+  0x47e0d400 WatcherThread [stack: 0x48590000,0x485e0000] [id=14872]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 314560K, used 272988K [0x03a00000, 0x18f50000, 0x18f50000)
+  eden space 279616K,  97% used [0x03a00000, 0x144972a8, 0x14b10000)
+  from space 34944K,   0% used [0x14b10000, 0x14b10000, 0x16d30000)
+  to   space 34944K,   0% used [0x16d30000, 0x16d30000, 0x18f50000)
+ tenured generation   total 699072K, used 0K [0x18f50000, 0x43a00000, 0x43a00000)
+   the space 699072K,   0% used [0x18f50000, 0x18f50000, 0x18f50200, 0x43a00000)
+ compacting perm gen  total 12288K, used 4151K [0x43a00000, 0x44600000, 0x47a00000)
+   the space 12288K,  33% used [0x43a00000, 0x43e0dd50, 0x43e0de00, 0x44600000)
+No shared spaces configured.
+
+Card table byte_map: [0x47a00000,0x47c30000] byte_map_base: 0x479e3000
+
+Polling page: 0x00120000
+
+Code Cache  [0x018e0000, 0x019b0000, 0x038e0000)
+ total_blobs=247 nmethods=97 adapters=95 free_code_cache=31954Kb largest_free_block=32721856
+
+Compilation events (10 events):
+Event: 71.346 Thread 0x47df9000   93             java.text.SimpleDateFormat::compile (616 bytes)
+Event: 71.355 Thread 0x47df9000 nmethod 93 0x019a30c8 code [0x019a3440, 0x019a48d8]
+Event: 71.355 Thread 0x47df9000   94             java.nio.Buffer::position (5 bytes)
+Event: 71.355 Thread 0x47df9000 nmethod 94 0x019a7208 code [0x019a7300, 0x019a7380]
+Event: 71.355 Thread 0x47df9000   95             java.nio.charset.CoderResult::isUnderflow (13 bytes)
+Event: 71.356 Thread 0x47df9000 nmethod 95 0x019a73c8 code [0x019a74c0, 0x019a7550]
+Event: 78.354 Thread 0x47df9000   96             java.lang.Long::parseLong (272 bytes)
+Event: 78.359 Thread 0x47df9000 nmethod 96 0x019a7588 code [0x019a79c0, 0x019a900c]
+Event: 81.358 Thread 0x47df9000   97             java.io.BufferedWriter::ensureOpen (18 bytes)
+Event: 81.359 Thread 0x47df9000 nmethod 97 0x019ab188 code [0x019ab290, 0x019ab38c]
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (10 events):
+Event: 1.341 Thread 0x47ea8c00 Threw 0x05b5fa10 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 1.343 Thread 0x47ea8c00 Threw 0x05b66278 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 1.413 Thread 0x47ea8c00 Threw 0x05b943b8 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.227 Thread 0x47ea8c00 Threw 0x05b9c760 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.230 Thread 0x47ea8c00 Threw 0x05bb2130 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.232 Thread 0x47ea8c00 Threw 0x05bbbb70 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.243 Thread 0x47ea8c00 Threw 0x05bc5fa8 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.245 Thread 0x47ea8c00 Threw 0x05bc8178 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.254 Thread 0x47ea8c00 Threw 0x05bcb5b0 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+Event: 2.594 Thread 0x47ea8c00 Threw 0x05be4258 at C:\re\jdk7u67\1368\hotspot\src\share\vm\prims\jvm.cpp:1244
+
+Events (10 events):
+Event: 19.974 Executing VM operation: ChangeSingleStep
+Event: 19.974 Executing VM operation: ChangeSingleStep done
+Event: 19.974 Executing VM operation: ChangeSingleStep
+Event: 19.974 Executing VM operation: ChangeSingleStep done
+Event: 19.974 Executing VM operation: GetCurrentLocation
+Event: 19.974 Executing VM operation: GetCurrentLocation done
+Event: 19.974 Executing VM operation: ChangeSingleStep
+Event: 19.974 Executing VM operation: ChangeSingleStep done
+Event: 19.975 Executing VM operation: ChangeSingleStep
+Event: 19.975 Executing VM operation: ChangeSingleStep done
+
+
+Dynamic libraries:
+0x012f0000 - 0x0131f000 	C:\Program Files\Java\jre7\bin\javaw.exe
+0x77590000 - 0x776cc000 	C:\Windows\SYSTEM32\ntdll.dll
+0x75c40000 - 0x75d14000 	C:\Windows\system32\kernel32.dll
+0x75660000 - 0x756ab000 	C:\Windows\system32\KERNELBASE.dll
+0x772a0000 - 0x77340000 	C:\Windows\system32\ADVAPI32.dll
+0x764c0000 - 0x7656c000 	C:\Windows\system32\msvcrt.dll
+0x75f40000 - 0x75f59000 	C:\Windows\SYSTEM32\sechost.dll
+0x76400000 - 0x764a2000 	C:\Windows\system32\RPCRT4.dll
+0x75ae0000 - 0x75ba9000 	C:\Windows\system32\USER32.dll
+0x76570000 - 0x765be000 	C:\Windows\system32\GDI32.dll
+0x76220000 - 0x7622a000 	C:\Windows\system32\LPK.dll
+0x776d0000 - 0x7776d000 	C:\Windows\system32\USP10.dll
+0x73990000 - 0x73b2e000 	C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\COMCTL32.dll
+0x77240000 - 0x77297000 	C:\Windows\system32\SHLWAPI.dll
+0x765c0000 - 0x765df000 	C:\Windows\system32\IMM32.DLL
+0x76150000 - 0x7621c000 	C:\Windows\system32\MSCTF.dll
+0x5f710000 - 0x5f7cf000 	C:\Program Files\Java\jre7\bin\msvcr100.dll
+0x5f380000 - 0x5f708000 	C:\Program Files\Java\jre7\bin\client\jvm.dll
+0x6ff10000 - 0x6ff17000 	C:\Windows\system32\WSOCK32.dll
+0x76360000 - 0x76395000 	C:\Windows\system32\WS2_32.dll
+0x764b0000 - 0x764b6000 	C:\Windows\system32\NSI.dll
+0x72660000 - 0x72692000 	C:\Windows\system32\WINMM.dll
+0x75930000 - 0x75935000 	C:\Windows\system32\PSAPI.DLL
+0x5fe20000 - 0x5fe2c000 	C:\Program Files\Java\jre7\bin\verify.dll
+0x5f360000 - 0x5f380000 	C:\Program Files\Java\jre7\bin\java.dll
+0x542b0000 - 0x542da000 	C:\Program Files\Java\jre7\bin\jdwp.dll
+0x72160000 - 0x72167000 	C:\Program Files\Java\jre7\bin\npt.dll
+0x5f340000 - 0x5f353000 	C:\Program Files\Java\jre7\bin\zip.dll
+0x6e3e0000 - 0x6e3e8000 	C:\Program Files\Java\jre7\bin\dt_socket.dll
+0x72cb0000 - 0x72cc0000 	C:\Windows\system32\NLAapi.dll
+0x6cb40000 - 0x6cb50000 	C:\Windows\system32\napinsp.dll
+0x6cb20000 - 0x6cb32000 	C:\Windows\system32\pnrpnsp.dll
+0x74fe0000 - 0x7501c000 	C:\Windows\System32\mswsock.dll
+0x74ea0000 - 0x74ee4000 	C:\Windows\system32\DNSAPI.dll
+0x6cb10000 - 0x6cb18000 	C:\Windows\System32\winrnr.dll
+0x73420000 - 0x7343c000 	C:\Windows\system32\IPHLPAPI.DLL
+0x734c0000 - 0x734c7000 	C:\Windows\system32\WINNSI.DLL
+0x71f30000 - 0x71f68000 	C:\Windows\System32\fwpuclnt.dll
+0x6fb80000 - 0x6fb86000 	C:\Windows\system32\rasadhlp.dll
+0x73410000 - 0x73415000 	C:\Windows\System32\wshtcpip.dll
+0x5f2f0000 - 0x5f304000 	C:\Program Files\Java\jre7\bin\net.dll
+0x74fd0000 - 0x74fd6000 	C:\Windows\System32\wship6.dll
+0x48880000 - 0x48c0d000 	C:\Renato\programas\adapter\jco_2_1\sapjcorfc.dll
+0x6dcf0000 - 0x6e198000 	C:\Windows\system32\librfc32.dll
+0x73b30000 - 0x73b39000 	C:\Windows\system32\VERSION.dll
+0x75f60000 - 0x760bc000 	C:\Windows\system32\ole32.dll
+0x75bb0000 - 0x75c3f000 	C:\Windows\system32\OLEAUT32.dll
+0x72210000 - 0x72221000 	C:\Windows\system32\NETAPI32.dll
+0x721f0000 - 0x721f9000 	C:\Windows\system32\netutils.dll
+0x75230000 - 0x75249000 	C:\Windows\system32\srvcli.dll
+0x721e0000 - 0x721ef000 	C:\Windows\system32\wkscli.dll
+0x765f0000 - 0x7723a000 	C:\Windows\system32\SHELL32.dll
+0x6d890000 - 0x6d97b000 	C:\Windows\system32\dbghelp.dll
+0x7c340000 - 0x7c396000 	C:\Windows\system32\MSVCR71.dll
+0x5f2e0000 - 0x5f2ef000 	C:\Program Files\Java\jre7\bin\nio.dll
+0x734a0000 - 0x734b2000 	C:\Windows\system32\dhcpcsvc.DLL
+0x71ea0000 - 0x71ead000 	C:\Windows\system32\dhcpcsvc6.DLL
+0x6b0c0000 - 0x6b126000 	C:\Users\Renato\AppData\Local\Temp\sqlitejdbc.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:49255 -Xms1024m -Dfile.encoding=Cp1252 
+java_command: main.Main
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+PATH=C:/Program Files/Java/jre7/bin/client;C:/Program Files/Java/jre7/bin;C:/Program Files/Java/jre7/lib/i386;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files\Common Files\HP\Digital Imaging\bin;C:\Program Files\HP\Digital Imaging\bin\;C:\Program Files\HP\Digital Imaging\bin\Qt\Qt 4.3.3;;C:\Renato\programas\eclipse-standard-luna-R-win32\eclipse;
+USERNAME=Renato
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 7 Build 7601 Service Pack 1
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, aes, erms, ht, tsc, tscinvbit, tscinv
+
+Memory: 4k page, physical 3566740k(1016340k free), swap 7131728k(3584548k free)
+
+vm_info: Java HotSpot(TM) Client VM (24.65-b04) for windows-x86 JRE (1.7.0_67-b01), built on Jul 25 2014 10:20:53 by "java_re" with unknown MS VC++:1600
+
+time: Thu Oct 02 23:11:54 2014
+elapsed time: 83 seconds
+
